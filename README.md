@@ -1,5 +1,8 @@
 # Sorting-Algorithm-Visualization
 
+Aktuell funktioniert nur der Quicksort-Algorithmus
+
+
 To-Do:
 - Stop Mechanismus
-- weitere Sortieralgorithmen hinzufügen
+- Implementierung von weiteren Algorithmen
